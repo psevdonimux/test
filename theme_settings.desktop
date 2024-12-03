@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=theme_settings
+GenericName=
+Comment=
+Exec=/cdrom/theme_settings.sh
+Type=Application
+Icon=application-x-desktop
+Terminal=false
